@@ -1,0 +1,30 @@
+STEP LABS — SOURCE NOTES
+
+Tano Skincare: archive contains only a programme summary and measurement notes. No standalone long-form narrative, project imagery, testimonial, underlying analytics export or further implementation detail was supplied; page uses only that summary.
+
+Dr. Jen Natural: archive contains only a programme summary and measurement notes. No standalone long-form narrative, project imagery, testimonial, underlying analytics export or further implementation detail was supplied; page uses only that summary.
+
+LiveWise: archive lists +59% AOV; linked detail page lists +60%. Each value remains with its own source, without silently reconciling the two.
+
+Kineon B2B portal: linked page has an unrelated +534% CRO headline. The rebuilt headline uses the portal summary from the archive; portal body and qualitative outcomes are retained. CRO metrics are confined to the separate Kineon CRO study.
+
+Anacott: archive identifies Anacott Capital and +200% visibility. Linked page identifies Anacott, a construction/real-estate firm, with qualitative outcomes. The rebuilt detail page uses only the archive’s Anacott Capital summary and supplied image. The unrelated construction-company narrative is excluded. Supporting measurement dates, analytics and the full Anacott Capital project story are missing; the +200% archive claim needs owner verification before publication.
+
+Suji: archive lists +110% YoY sales; detail page reports 2× revenue growth. Both remain in their source context; measurement windows for the detail headline are not specified.
+
+Big Horn Golfer: archive says doubled conversions; detail page specifies +114%. Original qualitative listing and exact detail metric retained.
+
+The live Apollo case page contains a Kineon testimonial logo. This mismatched logo was omitted; the attributed Apollo quote is preserved.
+
+Most older case pages do not supply raw analytics exports or precise date windows. Their published claims are retained as source claims, not independently verified. Qualitative outcomes have not been converted into invented statistics.
+
+Archive contains no standalone About page. Existing homepage About/method navigation is retained.
+
+Existing privacy/terms placeholders and static newsletter demo behavior are inherited from the supplied website. No backend has been added.
+
+No standalone attributed testimonial block was present on the retrieved detail pages for: Batch, Berkeley Life, BillionDollarBeauty, From Us (Founding team / Venture build), Kineon PPP, Aethon AI, Confidential (Boutique investment & fund management group), VUUM, Kensington Media House, Live Wise, Mighty Paw, Milin Patel, Look Our Way, TPSS, Activation Products, Invigorated Water. No testimonial has been fabricated for these pages.
+
+
+20 October 2026: All twelve supplied HTML case studies integrated. Their complete main content, including source/evidence notes, is retained. Suji combines new and earlier evidence without combining measurement windows.
+
+20 October 2026 update: Added the supplied Kineon, Shift, Curlfriend Collective, Euvita and Full Moons Club studies. Prior Kineon, Shift and Curlfriend evidence and source citations are retained under earlier project evidence, with measurement contexts kept distinct.
